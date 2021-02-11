@@ -16,6 +16,16 @@ My name is Caio and I'm fullstack developer.
  - 😍 Addicted for beautiful readmes
  - 💼 Currently working at <a href="https://akross.com.br/">Akross</a>
  - 🗺 Living in Rio
+ 
+### Recent Activities ✨
+<center>
+<table>
+  <tr>
+      <td><img align="left" padding-right="10px" src=https://github-readme-stats.vercel.app/api?username=caiotracera&show_icons=true&theme=buefy></td>
+      <td><img align="left" padding-right="10px" src=https://github-readme-stats.vercel.app/api/top-langs/?username=caiotracera&show_icons=true&theme=buefy&layout=compact></td>
+  </tr>  
+</table>
+</center>
 
 ---
 Made with 💖 by me!<br />
